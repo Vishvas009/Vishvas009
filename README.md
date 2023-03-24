@@ -9,12 +9,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishvas009" alt="vishvas009" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vishvas_009" target="blank"><img src="https://img.shields.io/twitter/follow/vishvas_009?logo=twitter&style=for-the-badge" alt="vishvas_009" /></a> </p>
-
-- 🔭 I’m currently **pursuing computer engineering from Government Engineering College Rajkot.**
+<div>
+<img src="https://images.squarespace-cdn.com/content/v1/5fce63270356d927d7eecdbd/033e9988-2ac8-4cb9-8b9f-5bf05fb22dcb/gff.jpg" align="right" style="width: 40%"/>
+</div>
+- 🔭 I’m currently pursuing computer engineering from Government Engineering College Rajkot.
 
 - 🌱 I’m currently learning **JavaScript,React,Database**
 
-- 🤝 I have also **instrest in team work**
+- 🤝 I have also instrest in team work.
 
 - 👨‍💻 My Portfolio [https://vishvas009.github.io/My_portfolio/](https://vishvas009.github.io/My_portfolio/)
 
