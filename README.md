@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/vishvas_009" target="blank"><img src="https://img.shields.io/twitter/follow/vishvas_009?logo=twitter&style=for-the-badge" alt="vishvas_009" /></a> </p>
 
 <div>
-<img src="https://images.squarespace-cdn.com/content/v1/5fce63270356d927d7eecdbd/033e9988-2ac8-4cb9-8b9f-5bf05fb22dcb/gff.jpg" align="right" style="width: 30%"/>
+<img src="https://images.squarespace-cdn.com/content/v1/5fce63270356d927d7eecdbd/033e9988-2ac8-4cb9-8b9f-5bf05fb22dcb/gff.jpg" align="right"/>
 </div>
 
 - 🔭 I’m currently pursuing computer engineering from Government Engineering College Rajkot.
